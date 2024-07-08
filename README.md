@@ -19,10 +19,6 @@ Below are different ways of fraud associated with Credit Card :
 
 The problem statement chosen for this project is to predict fraudulent credit card transactions with the help of machine learning models.
 
-In this project, we will analyse customer-level data which has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group.
-
-The dataset is taken from the Kaggle Website website and it has a total of 2,84,807 transactions, out of which 492 are fraudulent. 
-
 **Business Problem Overview**
 
 In Banking and FinTech industry, retaining profitable customers is the number one business goal. Banking fraud, however, poses a significant threat to this goal. Any sort of substantial financial loss consequent to a fraud is a concern for both banks/organisations and customers. This not only impact trust & credibility but also jeopardizes customer loyalty and deteriorates the bank-customer relationship.
@@ -33,10 +29,16 @@ In the banking industry, credit card fraud detection using machine learning is n
 
 **Getting Started**
 
-We have created a credit card fraud detection system using machine learning techniques. Model evaluation is done as per the accuracy score on both train & test data. For this project, we have used the Logistic Regression model. Since the dataset is highly imbalanced, so it needs to be handled before model building.
+We have created a credit card fraud detection system using machine learning techniques. In this project, we have analysed customer-level data which has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group.
+
+The dataset is taken from the Kaggle and it has a total of 2,84,807 transactions, out of which 492 are fraudulent. 
+
+Since the dataset was highly imbalanced, so data handling and preprocessing has to be done before model building.
+
+We used Logistic Regression for model buliding which gave us a acceptable accuracy score.
 
 - Programming language : Python
 
 - Libraries : Numpy & Pandas
 
-- Data source : www.kaggle.com
+- Data source : Kaggle
