@@ -1,9 +1,9 @@
 ![CC_Fraud_Detection_1](https://github.com/encodewithrohit/credit_card_fraud_detection/assets/151347543/71cf4e8d-c713-4bcd-a2bb-dbef565202e9)
 
 
-**Credit Card Fraud Detection Using Machine Learning**
+# Credit Card Fraud Detection Using Machine Learning
 
-**Understanding Credit Card fraud**
+**Understanding Credit Card Fraud :**
 
 Credit card fraud is any dishonest act and behaviour to obtain information without the proper authorization from the account holder for financial gain. 
 
@@ -15,11 +15,11 @@ Below are different ways of fraud associated with Credit Card :
 - Creation of counterfeit cards
 - Fraudulent tele-marketing
 
-**Problem Statement**
+**Problem Statement :**
 
 The problem statement chosen for this project is to predict fraudulent credit card transactions with the help of machine learning models.
 
-**Business Problem Overview**
+**Business Problem Overview :**
 
 In Banking and FinTech industry, retaining profitable customers is the number one business goal. Banking fraud, however, poses a significant threat to this goal. Any sort of substantial financial loss consequent to a fraud is a concern for both banks/organisations and customers. This not only impact trust & credibility but also jeopardizes customer loyalty and deteriorates the bank-customer relationship.
 
@@ -27,7 +27,7 @@ It has been estimated by Nilson report that by 2020 the banking frauds would acc
 
 In the banking industry, credit card fraud detection using machine learning is not just a trend but a necessity for them to put proactive monitoring and fraud prevention mechanisms in place. Machine learning is helping these institutions to reduce time-consuming manual reviews, costly chargebacks and fees, and denials of legitimate transactions.
 
-**Getting Started**
+**Getting Started :**
 
 We have created a credit card fraud detection system using machine learning techniques. In this project, we have analysed customer-level data which has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group.
 
